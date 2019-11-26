@@ -1,4 +1,5 @@
 # LessonTwo
+```
 [root@testraid ~]# lsblk
 NAME   MAJ:MIN RM  SIZE RO TYPE  MOUNTPOINT
 sda      8:0    0   40G  0 disk  
@@ -71,3 +72,4 @@ md0 : active raid6 sdc[5] sdf[4] sde[3] sdd[2] sdb[0]
       
 unused devices: <none>
 [root@testraid ~]# 
+```
